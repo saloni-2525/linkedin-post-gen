@@ -1,73 +1,55 @@
-# Welcome to your Lovable project
+# 🚀 Viral LinkedIn Post Generator  
+An AI-powered LinkedIn content generator that creates viral-style posts instantly based on a topic, tone, and target audience.
 
-## Project info
+This project was originally built using **Gemini GEM**, integrated with **Lyzr**, and finally developed into a complete web app using **Lovable**. The frontend and backend code are now exported and managed through GitHub.
 
-**URL**: https://lovable.dev/projects/47893f38-340a-44c9-88f9-25139c809469
+---
 
-## How can I edit this code?
+## 🔥 Features
 
-There are several ways of editing your application.
+- ✨ Generate viral-style LinkedIn posts instantly  
+- 🧠 Uses advanced AI prompt engineering for highly engaging copy  
+- 🎯 Choose tone, style, and audience  
+- ⚡ Fast & clean UI created with Lovable (Next.js)  
+- 🌐 Fully deployable on Vercel  
+- 💾 Code version-controlled via GitHub  
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/47893f38-340a-44c9-88f9-25139c809469) and start prompting.
+## 🛠️ Tech Stack
 
-Changes made via Lovable will be committed automatically to this repo.
+- **Next.js** (React Framework)  
+- **Lovable** (App Builder)  
+- **Gemini GEM** (Initial logic / prompt flow)  
+- **Lyzr** (AI workflow structuring)  
+- **TailwindCSS** (Styling – if included in your project)  
+- **Vercel** (Recommended deployment)  
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 📂 Project Structure
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+/pages
+/components
+/public
+/styles
+package.json
+next.config.js
+README.md
 
-Follow these steps:
+## 🚀 Getting Started (Run Locally)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/saloni-2525/linkedin-post-gen.git
+cd linkedin-post-gen
+2️⃣ Install dependencies
+bash
+Copy code
+npm install
+3️⃣ Start development server
+bash
+Copy code
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/47893f38-340a-44c9-88f9-25139c809469) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Server will run at:
+👉 http://localhost:3000
