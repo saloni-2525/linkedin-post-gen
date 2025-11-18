@@ -39,17 +39,22 @@ README.md
 
 ## 🚀 Getting Started (Run Locally)
 
-1️⃣ Clone the repository
+### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/saloni-2525/linkedin-post-gen.git
 cd linkedin-post-gen
-2️⃣ Install dependencies
-'''bash
-Copy code
+```
+
+### 2️⃣ Install dependencies
+```bash
 npm install
-3️⃣ Start development server
-'''bash
-Copy code
+```
+
+### 3️⃣ Start development server
+```bash
 npm run dev
-Server will run at:
+```
+
+💻 Your app will be live at:  
 👉 http://localhost:3000
+```
