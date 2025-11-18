@@ -39,7 +39,6 @@ README.md
 
 ## 🚀 Getting Started (Run Locally)
 
-### 
 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/saloni-2525/linkedin-post-gen.git
