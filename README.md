@@ -58,3 +58,5 @@ npm run dev
 💻 Your app will be live at:  
 👉 http://localhost:3000
 ```
+## 🌐 Live Demo
+👉 Try it here: https://linkedin-post-gen-one.vercel.app/
